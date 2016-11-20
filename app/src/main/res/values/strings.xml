@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reto_9</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_1">Cambiar radio</string>
+    <string name="menu_3">Salir</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="hospitales">Hospitales</string>
+    <string name="escuelas">Escuelas</string>
+    <string name="turistas">Museos</string>
+    <string name="restaurantes_cercanos">Restaurances cercanos</string>
+    <string name="museos_cercanos">Museos cercanos</string>
+    <string name="colegios_cercanos">Colegios cercanos</string>
+    <string name="hospitales_cercanos">Hospitales cercanos</string>
+</resources>
